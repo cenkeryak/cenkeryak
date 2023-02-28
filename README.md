@@ -17,7 +17,7 @@
 <h2 align="center">
 Who am I 👀 
 </h2>
-Senior Computer Science and Engineering student at Sabanci University. Loves data science especially using Python. Working as a Database and Business Intelligence Developer at Monster Notebook.  
+Junior Computer Science and Engineering student at Sabanci University.  
 </p>
 <center>
 <br>
@@ -39,15 +39,13 @@ Connect with me
 </a> &nbsp;
 
 
-<a href="https://www.linkedin.com/in/senihberkay/" target="_blank">
+<a href="https://www.linkedin.com/in/cenkeryak/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a> &nbsp;
 
 
 
-<a href="www.linkedin.com/in/cenkeryak" target="_blank">
-<img src=https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
-</a> &nbsp;
+
 </p>  
   
 </div>  
