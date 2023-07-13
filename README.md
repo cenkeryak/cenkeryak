@@ -7,7 +7,6 @@
 ### Hi there, I am Ali Cenker Yakisir <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
 
 - 🔭 I’m currently studying at Sabanci University
-- 🌱 I’m currently learning Machine Learning
 - 💬 
 - 📫 How to reach me: cenker.yakisir@gmail.com
 - 🌍 I'm based in Turkey, looking for new opportunities around the world
