@@ -25,7 +25,7 @@ Junior Computer Science and Engineering student at Sabanci University.
 Connect with me 
 </h2>
 <p align="center">
-  You can visit my social media accounts, <b>read my blog posts</b>, and learn more about me through the site. Do not forget to visit my social media accounts below to get to know me. <br>
+  You can visit my social media accounts <br>
 </p>  
 <br>
 
